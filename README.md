@@ -1,8 +1,8 @@
 # arcade_blog
 <img src="assets/readme_images/image.png" alt="splash"/>
-<img src="assets/readme_images/image1.png" alt="login"/>
-<img src="assets/readme_images/image2.png" alt="register"/>
-<img src="assets/readme_images/image3.png" alt="forget_pass"/>
+<img src="assets/readme_images/image3.png" alt="login"/>
+<img src="assets/readme_images/image1.png" alt="register"/>
+<img src="assets/readme_images/image2.png" alt="forget_pass"/>
 
 
 A new Flutter project.
